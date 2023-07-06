@@ -1,6 +1,6 @@
 # PlannerWidget
 
-## Title: Currency Converter Widget - Simplifying International Currency Conversion
+## Currency Converter Widget - Simplifying International Currency Conversion
 
 ### Introduction:
 The Currency Converter Widget is a powerful tool designed to simplify international currency conversion. It allows users to quickly and easily convert between different currencies, providing up-to-date exchange rates and facilitating seamless financial transactions. This write-up aims to provide a comprehensive explanation of why the widget was built and how it works.
